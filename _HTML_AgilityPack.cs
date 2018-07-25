@@ -1,19 +1,13 @@
 using System;
 using System.Collections.Generic;
-using System.Data;
 using System.Linq;
-using System.Net.Http;
-using System.Threading.Tasks;
 
-using AngleSharp;
 using AngleSharp.Extensions;
 using AngleSharp.Parser.Html;
 
 using BaseballScraper.Models;
 
 using HtmlAgilityPack;
-
-using NScrape;
 
 namespace BaseballScraper.Scrapers
 {
